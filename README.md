@@ -1,13 +1,13 @@
 
 
 <p align="center">
-  <a href="https://USERNAME.github.io">
+  <a href="https://fata-id.github.io/Fata-ID">
     <img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-fataid.github.io-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" alt="Visit my website">
   </a>
 </p>
 
 <p align="center">
-  [ <a href="https://fata-id.github.io/#about">Me Web</a> ]
+  [ <a href="https://fata-id.github.io/Fata-ID">Me Web</a> ]
 </p>
 
 ---
