@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fata-X</title>
+<style>
+:root {
+  --bg: #fff;
+  --ink: #000;
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #000; --ink: #fff; }
+}
+:root[data-theme="dark"] { --bg: #000; --ink: #fff; }
+html { scroll-padding-top: env(safe-area-inset-top, 0px); }
+body {
+  max-width: 34em;
+  margin: 0 auto;
+  padding: 1.5em 1em 2.5em;
+  background: var(--bg);
+  color: var(--ink);
+  font: 18px/1.6 "Times New Roman", Times, serif;
+}
+a { color: var(--ink); }
+a:hover, a:focus-visible { background: var(--ink); color: var(--bg); text-decoration: none; outline: none; }
+hr { border: 0; border-top: 1px solid var(--ink); margin: 1.5em 0; }
+header, footer { text-align: center; }
+img { display: block; width: 140px; height: 140px; margin: 0 auto 1em; padding: 4px; border: 1px solid var(--ink); }
+h1 { margin: 0; font-size: 2em; }
+h2 { margin: 1.6em 0 .4em; font-size: 1.25em; }
+p { margin: .4em 0; }
+nav { margin-top: 1em; }
+ul { margin: .4em 0; padding-left: 1.3em; list-style: square; }
+li { margin: .4em 0; }
+footer { font-size: .85em; }
+</style>
+</head>
+<body>
+
+<header>
+  <img src="pfp.jpeg" alt="Foto profil Nama Kamu">
+  <h1>Fata-X</h1>
+  <p>Webdev &amp; gamedev</p>
+  <nav>[ <a href="#about">About</a> ] 
+    [ <a href="#project">Project</a> ]
+    [ <a href="#contact">Contact</a> ]</nav>
+</header>
+
+<hr>
+
+<main>
+  <section id="about">
+    <h2>About</h2>
+    <p>Hay! me making web, design, and maintain web. follow me if u intrest and im game developer try my game here if u curious About it --> <a href="https://ifdhilfata.itch.io">Itch-Games</a> i was trying to learn Cybersecurity in this last 2 month ago, but i only completing my Nexus, Cap and TwoMillion HTB machines(easy).</p>
+    <p>Skill: NodeJS, Web stuff, CyberSecurity(Just little bith),small gamedev skill,web maintener at <a href="https://github.com/T4n-Labs">T4n-Labs</a>, and Photography things</p>
+  </section>
+
+  <section id="project">
+    <h2>Project</h2>
+    <ul>
+      <li><a href="https://smkn5takengon.web.id">School Website</a>: School profile site. 2026.</li>
+      <li><a href="https://smkn5takengonproduct.netlify.app">School Website 2</a>: School profile site. 2025.</li>
+      <li><a href="https://ifdhilfata.itch.io/kopdes-horor-takengon">Horor Game</a>: Indie Horor Games on itch.io 2025.</li>
+
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <ul>
+      <li>Email: <a href="mailto:fataid1212@gmail.com">fataid1212@gmail.com</a></li>
+      <li>GitHub: <a href="https://github.com/Fata-ID">github.com/Fata-ID</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/ifdhilfata">instagram.com/ifdhilfata</a></li>
+      <li>Itch.io: <a href="https://ifdhilfata.itch.io">ifdhilfata.itch.io</a></li>
+    </ul>
+  </section>
+</main>
+
+<hr>
+
+<footer>
+  <p>Last Updated : 30/9/2026<br>&copy; Fata-X  All right reserved</p>
+</footer>
+
+</body>
+</html>
