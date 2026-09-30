@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:fataid1212@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-000000?style=flat-square" alt="Email"></a>
-  <a href="https://github.com/fata-id"><img src="https://img.shields.io/badge/GitHub-USERNAME-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/fata-id"><img src="https://img.shields.io/badge/GitHub-fata-id-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <p align="center">
